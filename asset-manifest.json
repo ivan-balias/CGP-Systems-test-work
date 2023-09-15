@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CGP-Systems-test-work/static/css/main.c98ed908.css",
+    "main.js": "/CGP-Systems-test-work/static/js/main.cc20001d.js",
+    "static/media/image.svg": "/CGP-Systems-test-work/static/media/image.13818a78b3128e96ef2cc49592fc1e79.svg",
+    "static/media/headline.svg": "/CGP-Systems-test-work/static/media/headline.274fadcd5d2b0633f8a43a3722cccc19.svg",
+    "index.html": "/CGP-Systems-test-work/index.html",
+    "static/media/paragraph.svg": "/CGP-Systems-test-work/static/media/paragraph.c0c512c5c0252f3e4ad1b2e286466c85.svg",
+    "main.c98ed908.css.map": "/CGP-Systems-test-work/static/css/main.c98ed908.css.map",
+    "main.cc20001d.js.map": "/CGP-Systems-test-work/static/js/main.cc20001d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98ed908.css",
+    "static/js/main.cc20001d.js"
+  ]
+}
